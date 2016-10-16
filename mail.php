@@ -1,10 +1,10 @@
-<?php 
+<?php
 
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 $formcontent="Contact form\n\nFrom: $name \nMessage: $message";
-$recipient = "your-email@your-domain";
+$recipient = "inarticulatemedia@gmail.com";
 $subject = "Contact Form";
 $mailheader = "From: $email \r\n";
 
