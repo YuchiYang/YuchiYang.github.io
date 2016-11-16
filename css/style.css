@@ -59,15 +59,15 @@ h1 span{
 }
 
 
-::selection {
+/*::selection {
   background: #ada074;
   color:white;
-}
+}*/
 
-::-moz-selection {
+/*::-moz-selection {
   background: #ada074;
   color:white;
-}
+}*/
 
 
 .container{
