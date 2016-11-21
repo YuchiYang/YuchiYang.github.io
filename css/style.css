@@ -59,15 +59,15 @@ h1 span{
 }
 
 
-::selection {
+/*::selection {
   background: #ada074;
   color:white;
-}
+}*/
 
-::-moz-selection {
+/*::-moz-selection {
   background: #ada074;
   color:white;
-}
+}*/
 
 
 .container{
@@ -234,9 +234,9 @@ h1 span{
   line-height:100px;
 }
 
-.menu-click{
+/*.menu-click{
   display:none;
-}
+}*/
 
 
 .menu-click li {
