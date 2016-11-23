@@ -153,11 +153,11 @@ h1 span{
   font-size:14px;
   letter-spacing:1px;
   background:none;
-  -webkit-transition: all 0.6s ease-in;
+  /*-webkit-transition: all 0.6s ease-in;
 	-moz-transition: all 0.6s ease-in;
 	-ms-transition: all 0.6s ease-in;
 	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
+	transition: all 0.6s ease-in;*/
 }
 
 .start-page .content .text .read-more:hover{
@@ -175,10 +175,7 @@ h1 span{
   height: 29px;
   background: url(../img/arrow-down.png) no-repeat center center;
   display: block;
-  -webkit-animation: bounce-fade 1.2s infinite; /* Safari 4+ */
-  -moz-animation:    bounce-fade 1.2s infinite; /* Fx 5+ */
-  -o-animation:      bounce-fade 1.2s infinite; /* Opera 12+ */
-   animation:        bounce-fade 1.2s infinite; /* IE 10+ */
+  /*-webkit-animation: bounce-fade 1.2s infinite; */
 }
 
 
@@ -249,11 +246,11 @@ h1 span{
   line-height:70px;
   z-index:1000;
   border-bottom:1px solid #f2f2f2;
-  -webkit-transition: all 0.2s ease-in;
+  /*-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
  }
 
 .menu-click li:hover {
@@ -308,11 +305,11 @@ h1 span{
   display: block;
   padding: 0 20px 0 20px;
   line-height:60px;
-  -webkit-transition: all 0.2s ease-in;
+  /*-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
 }
 
 .menu-content li.active a{
@@ -416,11 +413,11 @@ h1 span{
   border-radius: 100px;
   width: 100px;
   cursor:pointer;
-    -webkit-transition: all 0.2s ease-in;
+    /*-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
 }
 
 .about-me .column-one .circle-one:hover{
@@ -447,11 +444,11 @@ h1 span{
   border-radius: 100px;
   width: 100px;
     cursor:pointer;
-    -webkit-transition: all 0.2s ease-in;
+    /*-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
 }
 
 .about-me .column-two .circle-two:hover{
@@ -478,11 +475,11 @@ h1 span{
   border-radius: 100px;
   width: 100px;
   cursor:pointer;
-  -webkit-transition: all 0.2s ease-in;
+  /*-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
 }
 
 .about-me .column-three .circle-three:hover{
@@ -522,11 +519,11 @@ h1 span{
   cursor:pointer;
   font-size:14px;
   background:none;
-  -webkit-transition: all 0.6s ease-in;
+  /*-webkit-transition: all 0.6s ease-in;
 	-moz-transition: all 0.6s ease-in;
 	-ms-transition: all 0.6s ease-in;
 	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
+	transition: all 0.6s ease-in;*/
 	letter-spacing:1px;
 }
 
@@ -590,11 +587,11 @@ h1 span{
   background: rgba(173,160,116,1);
   z-index: 2;
   opacity:0;
-    -webkit-transition: all 0.6s ease-in;
+    /*-webkit-transition: all 0.6s ease-in;
 	-moz-transition: all 0.6s ease-in;
 	-ms-transition: all 0.6s ease-in;
 	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
+	transition: all 0.6s ease-in;*/
 }
 
 .grid .text:hover {
@@ -608,11 +605,11 @@ h1 span{
   background: rgba(173,160,116,0.5);
   z-index: 2;
   opacity:0;
-  -webkit-transition: all 0.6s ease-in;
+  /*-webkit-transition: all 0.6s ease-in;
 	-moz-transition: all 0.6s ease-in;
 	-ms-transition: all 0.6s ease-in;
 	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
+	transition: all 0.6s ease-in;*/
 }
 
 .grid .no-text:hover {
@@ -693,12 +690,12 @@ h1 span{
 }
 
 .partners .logo img{
-  opacity:0.5;
+  /*opacity:0.5;
   -webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
 }
 
 .partners .logo img:hover{
@@ -845,11 +842,11 @@ input.submit{
   font-weight:700;
   text-align:right;
   background:none;
-  -webkit-transition: all 0.6s ease-in;
+  /*-webkit-transition: all 0.6s ease-in;
 	-moz-transition: all 0.6s ease-in;
 	-ms-transition: all 0.6s ease-in;
 	-o-transition: all 0.6s ease-in;
-	transition: all 0.6s ease-in;
+	transition: all 0.6s ease-in;*/
 }
 
 /* Footer */
@@ -886,11 +883,11 @@ input.submit{
   line-height:46px;
   padding:10px;
   color:#a4a4a4;
-  -webkit-transition: all 0.2s ease-in;
+  /*-webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;*/
 }
 
 .footer .menu-footer a:hover{
